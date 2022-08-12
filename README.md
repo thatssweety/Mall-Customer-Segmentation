@@ -1,7 +1,7 @@
 # [Project 2](https://github.com/thatssweety/Mall-Customer-Segmentation) :  Mall Customer Segmentation
 ![dataset-cover](https://user-images.githubusercontent.com/81384066/184426662-f78de366-0053-4892-8d80-82948369491a.jpg)
 ## [DATASET USED](https://github.com/thatssweety/Mall-Customer-Segmentation/blob/main/DATASET.zip) : <br>
-###             Kaggle Mall Customer Segmentation Data (for learning purpose)<br>
+###             [Kaggle Mall Customer Segmentation Data (for learning purpose)](https://github.com/thatssweety/Mall-Customer-Segmentation/blob/main/DATASET.zip)<br>
 
 <img width="563" alt="Screenshot (445)" src="https://user-images.githubusercontent.com/81384066/184425856-b19e0166-6fff-4704-bbfb-43563cda4cfa.png">
 
